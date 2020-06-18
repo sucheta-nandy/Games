@@ -1,3 +1,4 @@
 # Games
-This contains simple games(using Python) like:
+This contains simple childhood games(using Python) like:
 1. Tic Tac Toe
+2. Flames
